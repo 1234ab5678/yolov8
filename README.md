@@ -9,8 +9,9 @@
 
 ## 文件下载
 训练所需的权值可在百度网盘中下载。  
-链接: https://pan.baidu.com/s/1-khkEUiH-J3YJHVaYuuVbw      
-提取码: ss9t     
+链接：https://pan.baidu.com/s/1lm9GMCsZb6D0z9aU-JVxUA?pwd=9gvq 
+提取码：9gvq 
+
 
 COCO2017数据集下载地址如下，里面已经包括了训练集、验证集、测试集：   
 链接：https://pan.baidu.com/s/1kErNnJR-Zq2cqopnaySyNw?pwd=1234 
